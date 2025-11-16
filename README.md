@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-I'm a **Software Engineer** with **10+ years of battle-tested experience** in the tech trenches, currently crafting the future of digital assets at **Galaxy Digital** 🌌 – one of the leading digital asset and blockchain technology firms in the US!
+I'm a **Software Engineer** with **10+ years of battle-tested experience** in the tech trenches, currently crafting the future of digital assets at **Galaxy Digital** 🌌 – one of the leading digital asset, AI and blockchain technology firms in the US!
 
 My journey has taken me from building robust Web2 applications at powerhouse companies like **Globant** and **Gorilla Logic**, to diving deep into the fascinating world of **Web3** and decentralized technologies. I'm passionate about creating transparent, user-empowering solutions that leverage blockchain technology to solve real-world problems.
 
@@ -28,7 +28,7 @@ Delivered enterprise-grade solutions for international clients
 🏢 **Globant** - *Software Engineer*  
 Scaled applications for global enterprises
 
-🎫 **Founder** - *Music Event Ticketing Platform*  
+🎫 **Founder** - *Leventy - Music Event Ticketing Platform*  
 Built and operated a successful ticketing system in Medellín's vibrant music scene
 
 ---
