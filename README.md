@@ -20,7 +20,7 @@ I'm not just a coder – I'm a builder! I founded and operated a **ticketing sys
 ## 💼 Professional Experience
 
 🏢 **Galaxy Digital** - *Current*  
-Leading Web3 development initiatives at one of the premier digital asset firms
+Leading Web3 development initiatives at one of the premier AI & Digital Assets firms
 
 🏢 **Gorilla Logic** - *Software Engineer*  
 Delivered enterprise-grade solutions for international clients
@@ -30,6 +30,9 @@ Scaled applications for global enterprises
 
 🎫 **Founder** - *Leventy - Music Event Ticketing Platform*  
 Built and operated a successful ticketing system in Medellín's vibrant music scene
+
+🎫 **Chief Technology Officer (CTO)** - *EDE - Electronic Dance Event - Music Event Ticketing Platform and Event Agenda in Colombia*  
+The Colombian pioneering app for electronic music events (Organizers and Ravers)
 
 ---
 
